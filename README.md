@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Alireza aka Gary
+- 👋 Hi, I’m Alireza Alizadeh aka Gary
 - 👀 I’m a CS student interested in Data Science and Video Games
-- 🌱 I’m currently learning Rust/Python/SQL
+- 🌱 I mainly code in Rust/Python/SQL.
 
 <!---
 CallMeGary123/CallMeGary123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
